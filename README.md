@@ -1,2 +1,2 @@
 # eventif
-Trabalho de Programação Coorporativa de Django.
+Meu Trabalho de Programação Coorporativa de Django.
